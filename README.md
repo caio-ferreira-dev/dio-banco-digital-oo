@@ -1,2 +1,2 @@
-# dio-banco-digital-oo
-A project provided by DIO that's represent a digital bank using Java's OOP. 
+# DIO Banco-Digital
+Este projeto é um sistema bancário simples desenvolvido em Java utilizando várias propriedades fundamentais da Programação Orientada a Objetos que permite a criação e gerenciamento de contas correntes e poupança. As funcionalidades principais incluem a criação de novas contas, listagem de todas as contas existentes, realização de saques, depósitos e transferências entre contas. O sistema utiliza um menu interativo baseado em texto, acessado através do console, onde os usuários podem selecionar as ações desejadas. Clientes são cadastrados com nome e telefone, e cada conta é associada a um cliente. O gerenciamento das contas é feito através de uma lista em memória, permitindo fácil acesso e manipulação das informações. 
